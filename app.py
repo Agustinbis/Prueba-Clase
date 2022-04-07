@@ -1,4 +1,4 @@
-def saludar()
+def saludar():
 	return "Hola!"
 
 def suma(a, b):
